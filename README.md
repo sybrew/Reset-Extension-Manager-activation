@@ -16,7 +16,7 @@ Monitor will not have its data removed, but it will request you to reconnect aft
 
 ## Usage instructions
 
-1. [Download ZIP](https://github.com/sybrew/reset-extension-manager-activation/archive/master.zip)
+1. [Download this plugin's ZIP file](https://github.com/sybrew/reset-extension-manager-activation/archive/master.zip).
 2. Log in to your WordPress Dashboard.
 3. Go to Plugins > Add New.
 4. Click "Upload Plugin" at the top.
