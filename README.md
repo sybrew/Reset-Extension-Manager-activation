@@ -20,7 +20,7 @@ Monitor will not have its data removed, but it will request you to reconnect aft
 2. Log in to your WordPress Dashboard.
 3. Go to Plugins > Add New.
 4. Click "Upload Plugin" at the top.
-5. Upload the `reset-extension-manager-activation.zip` file you just downloaded.
+5. Upload the `reset-extension-manager-activation-main.zip` file you just downloaded.
 6. Either network-activate this plugin or activate it on a single site.
 	- If you **network activated** the plugin, Extension Manager will be reset for **ALL SITES in the network**.
 	- If you activate the plugin on a **single site**, Extension Manager will be reset for the **current site**.
